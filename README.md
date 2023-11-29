@@ -3,7 +3,7 @@ This project focuses on leveraging gRPC to streamline communication between clie
 five essential functions are SearchByID, SearchBySKU, SearchBySKURange, GetDistribution, and UpdateCost. It begins with
 setting up a local connection and culminates in deploying the
 server program to the cloud. Throughout this transition, the
-client program interacts with the server provider.
+client program interacts with the server provider on the cloud.
 
 ##  SERVICE DEVELOPMENT
 This service includes five gRPC methods: SearchByID,
